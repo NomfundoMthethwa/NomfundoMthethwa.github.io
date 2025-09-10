@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nomfundomthethwa.github.io/sitemap.xml
